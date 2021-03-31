@@ -20,11 +20,11 @@ body{
 }
 .nav{
 
-    float: right;
+
     padding: 15px;
     font-size: 12px;
     font-weight: 600;
-    margin-top: 1%;
+    
 }
 
 ul li {
