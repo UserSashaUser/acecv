@@ -1,0 +1,22 @@
+.wrapper{
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+margin-top: 130px;
+margin-left: 100px;
+
+
+    
+}
+.wrapp__item1{
+
+    display: flex;
+    flex-direction: column;
+    height: 20px;
+    padding: 3px;
+    width: 25%;
+    height: 30px;
+    
+    
+
+}
