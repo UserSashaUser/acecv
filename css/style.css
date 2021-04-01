@@ -52,3 +52,22 @@
     background-color: #e9f4f3;
 
 }
+.My__skills{
+    display: flex;
+    flex-direction: column;
+    margin-left: 38%;
+    margin-top: 4%;
+}
+.skills{
+ font-size: 30px;
+ font-family: Hind,sans-serif;
+ color:#515769;
+
+}
+.hr1{
+    size: 2px;
+    color:grey;
+    width: 80%;
+    margin-top: 10%;
+    margin-left: -15%;
+}
