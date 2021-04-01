@@ -1,5 +1,7 @@
 .about1{
     margin-left: 70px;
+    width: 374px;
+    height: 523px;
 }
 .about{
 
@@ -11,16 +13,20 @@
     font-size: 30px;
     color:#515769;
     font-family: Hind,sans-serif;
+    margin-top:180px;
+    margin-left: -120px;
 }
 .p-item{
 
     font-size: 15px;
     font-family: Hind,sans-serif;
     color:#A6A7AA;
+    margin-left: -120px;
 }
 .p-item1{
 
     font-size: 15px;
     font-family: Hind,sans-serif;
     color:#A6A7AA;
+    margin-left: -120px;
 }
