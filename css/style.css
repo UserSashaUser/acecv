@@ -1,3 +1,26 @@
 .about1{
     margin-left: 70px;
 }
+.about{
+
+    margin-left: 630px;
+    margin-top: -700px;
+}
+.about-h1{
+
+    font-size: 30px;
+    color:#515769;
+    font-family: Hind,sans-serif;
+}
+.p-item{
+
+    font-size: 15px;
+    font-family: Hind,sans-serif;
+    color:#A6A7AA;
+}
+.p-item1{
+
+    font-size: 15px;
+    font-family: Hind,sans-serif;
+    color:#A6A7AA;
+}
