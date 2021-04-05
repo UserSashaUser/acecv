@@ -57,3 +57,33 @@ color:lightslategrey;
     height: 84px;
     font-size: 15px;
 }
+.triangle{
+    font-size: 20px;
+    color:#515769;
+    font-family: Hind,sans-serif;
+
+
+}
+.m1{
+
+    color:#BFC1C7;
+font-size: 14px;
+font-family: Hind,sans-serif;
+margin-left: 160px;
+margin-top: -40px;
+font-weight: normal;
+
+}
+.more__text{
+
+
+    font-size: 16px;
+    color:#a6a7aa;
+    word-spacing: 3px;
+    letter-spacing: 10%;
+}
+.more{
+
+    font-size: 13px;
+    color:#81848f;
+}
