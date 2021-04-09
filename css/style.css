@@ -40,6 +40,7 @@ margin-left: 70px;
     display: flex;
     flex-direction: row;
    justify-content: space-between;
+ margin-top:  250px;
     
 
 }
@@ -47,5 +48,16 @@ margin-left: 70px;
     font-size: 22PX;
     COLOR:#515769;
     font-family: Hind,sans-serif;
+
+}
+.inner__block__one{
+
+    color:#81848f;
+    font-size: 14px;
+    font-family: Hind,sans-serif;
+}
+.logo__end{
+
+
 
 }
