@@ -18,13 +18,19 @@ body{
     font-family: Hindi,sans-serif;
     font-size: 18px;
 }
-.nav{
 
     float: right;
     padding: 15px;
     font-size: 12px;
     font-weight: 600;
     margin-top: 1%;
+
+
+    padding: 15px;
+    font-size: 12px;
+    font-weight: 600;
+    
+
 }
 
 ul li {
@@ -49,6 +55,7 @@ ul li a{
 a{
     margin-top: 20px;
 }
+
 .ico{
     margin-top: -50px;
     margin-left: 40px;
@@ -115,4 +122,20 @@ a{
     display: flex;
     margin-left: 800px;
     margin-top: -300px;
+
+@media screen and (max-width:960px){
+
+ .nav{
+
+    display: ;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+ }
+a{
+    width: 100%;
+}
+
+
 }
