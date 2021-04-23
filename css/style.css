@@ -3,6 +3,14 @@
 .contact{
 
 }
+.container{
+
+   
+    max-width: 1100px;
+    width: 100%;
+    margin: 0 auto;
+
+}
 .block__item{
 
     display: flex;
@@ -13,8 +21,9 @@
 font-family: Hind,sans-serif;
 font-size: 30px;
 color:#515769;
-
 margin-top: 100px;
+
+
     
 }
 .item__two{
@@ -23,14 +32,7 @@ margin-top: 100px;
     color:#a6a7aa;
 
 }
-.container{
 
-   
-    max-width: 1100px;
-    width: 100%;
-    margin: 0 auto;
-
-}
 .block__items{
 
     display: flex;
@@ -42,22 +44,14 @@ margin-top: 100px;
 
 display: flex;
 flex-direction: column;
-margin-top: 30px;
+margin-top: 100px;
 
 
 
 
 
 }
-acecv{
-    display: flex;
-    flex-direction: row;
-   justify-content: space-between;
- margin-top:  250px;
 
-    
-
-}
 .inner_block{
     font-size: 22PX;
     COLOR:#515769;
@@ -90,11 +84,12 @@ acecv{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
- 
+    align-items: center;
+    height: 100px;
     max-width: 1100px;
     width: 100%;
     margin: 0 auto;
-    margin-top: 200px;
+    margin-top: 100px;
 
 
 }
