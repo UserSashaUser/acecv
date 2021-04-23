@@ -1,4 +1,155 @@
 
+ about
+
+html{
+    overflow-x: hidden;
+}
+
+.about{
+
+    display: flex;
+    flex-direction: row;
+
+}
+.about__items{
+
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+
+
+}
+.about-img{
+
+    width: 30;
+    margin-left: 90px;
+    width: 500px;
+    
+}
+.about__info{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+     border-bottom: 2px grey solid;
+
+}
+.about__info-title{
+
+    font-family: Hind,sans-serif;
+    margin-left: 30px;
+    color:#595454;
+    margin-top: 5px;
+}
+.about__info-text{
+
+ color:#A6A7AA;
+font-size: 15PX;
+ margin-top: 20px;
+ margin-left: 30px;
+
+}
+.about__info-hr{
+
+    size: 2px;
+    width: 200px;
+    color:grey;
+    margin-top: -30px;
+    position: absolute;
+}
+.about__info-button{
+
+     margin-top: 50px;
+     margin-bottom: 50px;
+     margin-left: 30px;
+
+
+
+}
+
+.about__info-button a {
+
+   text-decoration: none;
+   font-size: 15px;
+   font-family: Hind,sans-serif;
+   background-color: #f2eded;
+   padding: 20px 30px;
+   
+
+   padding-top: 20px;
+   color:#515769;
+   font-weight: bolder;
+   transition: 0.5s;
+
+
+
+
+}
+.about__info-button a:hover{
+
+    background-color:#60d4a4;
+    color:white;
+
+
+}
+
+
+
+
+
+.about__skills{
+
+    display: flex;
+    flex-direction: column;
+
+}
+.about__skills-title{
+
+    font-family: Hind,sans-serif;
+    margin-left: 40px;
+    
+    font-size: 30px;
+    color:#5c6561;
+}
+.about__skills-item{
+
+    font-size: 14px;
+    color:#515769;
+    font-weight: bolder;
+    margin-left: 50px;
+}
+.adobe{
+
+    width: 600px;
+    background-color:lightseagreen;
+    margin-left: 50px;
+    border: 2px solid #60d4a4;
+
+
+}
+.h2-87{
+  margin-left: 680px;
+  font-size: 18px;
+  margin-top: -20px;
+  margin-right: -100px;
+  color: #A6A7AA;
+}
+.h2-96{
+    margin-left: 680px;
+    font-size: 18px;
+    margin-top: -20px;
+    margin-right: -100px;
+    color: #A6A7AA;
+  }
+  .h2-77{
+    margin-left: 680px;
+    font-size: 18px;
+    margin-top: -20px;
+    margin-right: -100px;
+    color: #A6A7AA;
+  }
+
+
 .wrapper{
  display: flex;
  flex-direction: row;
@@ -230,6 +381,7 @@ font-weight: normal;
 }*/
 
 
+
 body{
 
     background-color: #e9f4f3;
@@ -368,6 +520,10 @@ a{
 a{
     width: 100%;
 }
+
+
+}
+ 
 
 
 
