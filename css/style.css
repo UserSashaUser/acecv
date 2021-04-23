@@ -18,13 +18,19 @@ body{
     font-family: Hindi,sans-serif;
     font-size: 18px;
 }
-.nav{
+
+    float: right;
+    padding: 15px;
+    font-size: 12px;
+    font-weight: 600;
+    margin-top: 1%;
 
 
     padding: 15px;
     font-size: 12px;
     font-weight: 600;
     
+
 }
 
 ul li {
@@ -49,6 +55,74 @@ ul li a{
 a{
     margin-top: 20px;
 }
+
+.ico{
+    margin-top: -50px;
+    margin-left: 40px;
+
+
+}
+.mycolor{
+ 
+    
+    padding-top: 80px; 
+    position: absolute;
+    margin-left: 69px;
+    color:darkgray;
+}
+.my{
+
+    padding-top: 80px; 
+    position: absolute;
+    margin-left: 110px;
+    color:darkgray;
+}
+.my2{
+
+    padding-top: 80px; 
+    position: absolute;
+    margin-left: 150px;
+    color:darkgray;
+}
+.my4{
+
+    padding-top: 80px; 
+    position: absolute;
+    margin-left: 200px;
+    color:darkgray;  
+}
+.my5{
+  
+    padding-top: 80px; 
+    position: absolute;
+    margin-left: 260px;
+    color:darkgray;    
+}
+.h-item {
+
+    color:darkblue;
+    font-size: 70px;
+    margin-left: 90px;
+    font-family: HIND,sans-serif;
+    margin-top: 200px;
+    color:#515769;
+}
+.p-class{
+    font-family: HIND,sans-serif;
+    color:#A6A7AA;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: -50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.avatar{
+    display: flex;
+    margin-left: 800px;
+    margin-top: -300px;
+
 @media screen and (max-width:960px){
 
  .nav{
@@ -62,5 +136,6 @@ a{
 a{
     width: 100%;
 }
+
 
 }
